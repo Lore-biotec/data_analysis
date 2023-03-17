@@ -7,6 +7,6 @@
   + bianchi  
   + rossi
 * patate  
-Trentatre | Trentini
-----------|---------
+Trentatre | Trentini  
+--------------------
 andarono  | a trento
