@@ -8,5 +8,5 @@
   + rossi
 * patate  
 Trentatre | Trentini  
---------------------
+----------|---------  
 andarono  | a trento
