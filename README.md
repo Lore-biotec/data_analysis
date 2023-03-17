@@ -2,8 +2,8 @@
 ##Questa e' una prova  
 ###Per vedere se vado accapo 
 ***
->Acquistare
-*fagioli
-+bianchi
-+rossi
-*patate
+>Acquistare  
+*fagioli  
++bianchi  
++rossi  
+*patate  
