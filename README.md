@@ -3,7 +3,7 @@
 ###Per vedere se vado accapo 
 ***
 >Acquistare  
-*fagioli  
-+bianchi  
-+rossi  
-*patate  
+* fagioli  
++ bianchi  
++ rossi  
+* patate  
