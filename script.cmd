@@ -1,3 +1,4 @@
+#
 docker build --platform linux/amd64 . -t  pyrjupyter
 @Set "Build=%CD%"
 @Echo(%Build%
